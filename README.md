@@ -1,5 +1,8 @@
 This is a repository for Interactive VideoClip directed by Laura Zapalowski (Artist Raper Zapper).
 
+![zapper960](https://github.com/jositux/zapper/assets/731879/769f2d78-2012-4e8e-9c08-47ba4be1f236)
+
+
 Based in [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
